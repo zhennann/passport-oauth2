@@ -1,6 +1,6 @@
 {
-  "name": "passport-oauth2",
-  "version": "1.5.0",
+  "name": "@zhennann/passport-oauth2",
+  "version": "1.6.1",
   "description": "OAuth 2.0 authentication strategy for Passport.",
   "keywords": [
     "passport",
@@ -25,12 +25,10 @@
     "url": "http://github.com/jaredhanson/passport-oauth2/issues"
   },
   "license": "MIT",
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://opensource.org/licenses/MIT"
-    }
-  ],
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://opensource.org/licenses/MIT"
+  }],
   "main": "./lib",
   "dependencies": {
     "base64url": "3.x.x",
